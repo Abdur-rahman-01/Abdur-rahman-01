@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Abdur Rahman Qasim:
 3rd year cs undergrad<br>exploring agentic ai and full stack dev<br>python java <br>ml enthusiast<br>
 
 
