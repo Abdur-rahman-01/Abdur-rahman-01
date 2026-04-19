@@ -1,5 +1,5 @@
 # Abdur Rahman Qasim:
-3rd year cs undergrad<br>exploring agentic ai and full stack dev<br>python java <br>ml enthusiast<br>
+Im a 3rd Year CSE Undergrad working and exploring the world of AI/ML with active projects and research<br>exploring agentic ai and full stack dev<br>python java <br>ml enthusiast<br>
 
 
 ## 🌐 Socials:
